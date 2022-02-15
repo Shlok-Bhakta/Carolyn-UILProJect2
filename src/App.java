@@ -4,7 +4,7 @@ import java.io.File;
 public class App {
 
     public static void main(String[] args) throws Exception {
-        Scanner s = new Scanner(new File("carolyn.dat"));
+        Scanner s = new Scanner(new File("carolynJUD.dat"));
         int loop = s.nextInt();
         String[] Alphabet = { "A", "B", "C", "D", "E", "F", "G",
                 "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R",
